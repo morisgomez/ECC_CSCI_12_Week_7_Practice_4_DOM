@@ -1,0 +1,13 @@
+html
+{
+  text-align: center;
+}
+
+#outerDiv
+{
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 8px;
+  height: 400px;
+  width: 400px;
+  margin: auto;
+}
